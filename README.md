@@ -1,2 +1,12 @@
 # list-test
 A list test
+
+. = []
+
+..append(1)
+..append(2)
+..append(3)
+
+print(.[0])
+print(.[1])
+print(.[2])
